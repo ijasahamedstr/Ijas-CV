@@ -10,39 +10,43 @@
         "perPage": 6
     },
     "profile": {
-        "avatar": "/img/face-1.jpg",
-        "name": "Artur Carter",
-        "role": "Front-end Deweloper <br>Ui/UX Designer",
+        "avatar": "https://i.ibb.co/xFqRk6f/1719419190997.png",
+        "name": "Abdul Rasool Ijas Ahamed",
+        "role": "Full Stack Developer",
         "info": [
             {
                 "label": "Residence",
-                "value": "Canada"
+                "value": "Sri Lanka"
             },
             {
-                "label": "City",
-                "value": "Toronto"
+                "label": "Email",
+                "value": "ijasahamed.str@gmail.com"
             },
             {
-                "label": "Age",
-                "value": "26"
+                "label": "Mobile No",
+                "value": "(+94) 76 8696704"
             }
         ],
         "skills": {
             "language": [
                 {
-                    "label": "French",
+                    "label": "Tamil",
                     "value": "1"
                 },
                 {
                     "label": "English",
                     "value": "0.9"
-                },
-                {
-                    "label": "Spanish",
-                    "value": "0.7"
                 }
             ],
             "hard": [
+                {
+                    "label": "React",
+                    "value": "0.9"
+                },
+                {
+                    "label": "Node.js",
+                    "value": "0.95"
+                },
                 {
                     "label": "html",
                     "value": "0.9"
@@ -66,13 +70,16 @@
             ],
             "knowledge": [
                 {
-                    "label": "Bootstrap, Materialize"
+                    "label": "Microsoft Azure"
                 },
                 {
-                    "label": "Stylus, Sass, Less"
+                    "label": "Bootstrap, Material Design"
                 },
                 {
-                    "label": "Gulp, Webpack, Grunt"
+                    "label": "  CSS, Sass, Less"
+                },
+                {
+                    "label": "GIT knowledge"
                 },
                 {
                     "label": "GIT knowledge"

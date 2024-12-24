@@ -1,4 +1,4 @@
-// File: E:\CV\Ijas CV\src\app\(pages)\page.jsx
+// File: C:\Users\LaserLED\Desktop\Ijas CV\src\app\(pages)\page.jsx
 import * as entry from '../../../../src/app/(pages)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

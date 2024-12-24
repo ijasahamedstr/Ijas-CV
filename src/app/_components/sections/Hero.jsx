@@ -53,7 +53,7 @@ const HeroOne = () => {
                         </div>
                         {/* main title end */}
                         {/* photo */}
-                        <img src={Data.photo.url} className="art-banner-photo" alt={Data.photo.alt} />
+                        {/* <img src={Data.photo.url} className="art-banner-photo" alt={Data.photo.alt} /> */}
                         </div>
                         {/* banner overlay end */}
                     </div>
